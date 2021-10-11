@@ -1,0 +1,10 @@
+mkdir repo1
+cd repo1
+touch 4amiraahmed
+git init
+git add 4amiraahmed
+git commit -m "message"
+ then creat repo on github
+git remote add origin urlssh
+git push origin master
+and then send invitation 
