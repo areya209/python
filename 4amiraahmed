@@ -8,3 +8,5 @@ git commit -m "message"
 git remote add origin urlssh
 git push origin master
 and then send invitation 
+
+aya added some changes
